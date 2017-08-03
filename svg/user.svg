@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>user</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.727977808">
-        <g id="home" transform="translate(-51.000000, -504.000000)" fill="#000000">
-            <g id="btn-group" transform="translate(51.000000, 504.000000)">
-                <g id="btn-login">
-                    <path d="M19.1689829,21.1023504 C18.6608153,16.0527766 15.8399082,11.9387789 12.1206435,10.5835092 C13.8810734,9.63214358 15.0770185,7.7699898 15.0770185,5.62850809 C15.0770185,2.51996891 12.5570496,0 9.4485104,0 C6.33997122,0 3.82000232,2.51996891 3.82000232,5.62850809 C3.82000232,7.7699898 5.01594739,9.63214358 6.77637731,10.5835092 C2.95596866,11.9756349 0.391703727,15.8645714 0,21.1023504" id="user"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="20px" height="22px" viewBox="0 0 20 22" enable-background="new 0 0 20 22" xml:space="preserve">
+<title>user</title>
+<desc>Created with Sketch.</desc>
+<g id="app">
+	<g id="home" transform="translate(-51.000000, -504.000000)">
+		<g id="btn-group" transform="translate(51.000000, 504.000000)">
+			<g id="btn-login">
+				<path id="user_2_" d="M19.602,22.119c-0.51-5.05-3.33-9.163-7.049-10.52c1.76-0.951,2.957-2.813,2.957-4.955
+					c0-3.108-2.521-5.628-5.629-5.628c-3.109,0-5.629,2.52-5.629,5.628c0,2.142,1.196,4.004,2.957,4.955
+					c-3.82,1.393-6.385,5.282-6.776,10.52H19.602z"/>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>
