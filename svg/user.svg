@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>user</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.727977808">
+        <g id="home" transform="translate(-51.000000, -504.000000)" fill="#000000">
+            <g id="btn-group" transform="translate(51.000000, 504.000000)">
+                <g id="btn-login">
+                    <path d="M19.1689829,21.1023504 C18.6608153,16.0527766 15.8399082,11.9387789 12.1206435,10.5835092 C13.8810734,9.63214358 15.0770185,7.7699898 15.0770185,5.62850809 C15.0770185,2.51996891 12.5570496,0 9.4485104,0 C6.33997122,0 3.82000232,2.51996891 3.82000232,5.62850809 C3.82000232,7.7699898 5.01594739,9.63214358 6.77637731,10.5835092 C2.95596866,11.9756349 0.391703727,15.8645714 0,21.1023504" id="user"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

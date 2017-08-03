@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>ask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step1" transform="translate(-336.000000, -40.000000)">
+            <g id="header" transform="translate(0.000000, 4.000000)">
+                <g id="ask" transform="translate(337.000000, 35.000000)">
+                    <text id="?" font-family="DINAlternate-Bold, DIN Alternate" font-size="20" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.37109375" y="19">?</tspan>
+                    </text>
+                    <circle id="Oval-2" stroke="#FFFFFF" cx="10" cy="12" r="10"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

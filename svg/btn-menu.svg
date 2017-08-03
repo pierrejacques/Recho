@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="23px" viewBox="0 0 33 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login" transform="translate(-326.000000, -39.000000)" fill="#FFFFFF">
+            <g id="header" transform="translate(0.000000, 4.000000)">
+                <g id="btn-menu" transform="translate(326.000000, 35.846948)">
+                    <rect id="Rectangle-2" x="0" y="0" width="4.56437504" height="4.56437504"></rect>
+                    <rect id="Rectangle-2-Copy-2" x="0" y="8.73958927" width="4.56437504" height="4.56437504"></rect>
+                    <rect id="Rectangle-2-Copy" x="8.73958927" y="0" width="24.2426166" height="4.56437504"></rect>
+                    <rect id="Rectangle-2-Copy-3" x="8.73958927" y="8.73958927" width="24.2426166" height="4.56437504"></rect>
+                    <rect id="Rectangle-2-Copy-5" x="0" y="17.4791785" width="4.56437504" height="4.56437504"></rect>
+                    <rect id="Rectangle-2-Copy-4" x="8.73958927" y="17.4791785" width="24.2426166" height="4.56437504"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
