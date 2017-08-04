@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>ask</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="step1" transform="translate(-336.000000, -40.000000)">
-            <g id="header" transform="translate(0.000000, 4.000000)">
-                <g id="ask" transform="translate(337.000000, 35.000000)">
-                    <text id="?" font-family="DINAlternate-Bold, DIN Alternate" font-size="20" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="5.37109375" y="19">?</tspan>
-                    </text>
-                    <circle id="Oval-2" stroke="#FFFFFF" cx="10" cy="12" r="10"></circle>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<title>ask</title>
+<desc>Created with Sketch.</desc>
+<g id="ask" transform="translate(337.000000, 35.000000)">
+	<g enable-background="new    ">
+		<path d="M-322.867-24.861l-1.48,1.96c-0.199,0.26-0.359,0.681-0.359,1.021v0.42h-2.601v-0.601c0-0.859,0.24-1.399,0.76-2.08
+			l1.48-1.9c0.319-0.42,0.58-0.9,0.58-1.34c0-0.94-0.62-1.641-1.621-1.641c-1.06,0-1.6,0.74-1.6,1.66h-2.601
+			c0-2.48,1.88-4.001,4.201-4.001c2.26,0,4.221,1.461,4.221,4.001C-321.887-26.362-322.307-25.602-322.867-24.861z M-327.388-17
+			v-2.66h2.761V-17H-327.388z"/>
+	</g>
+	<path d="M-326-13.5c-5.79,0-10.5-4.71-10.5-10.5s4.71-10.5,10.5-10.5s10.5,4.71,10.5,10.5S-320.21-13.5-326-13.5z M-326-33.5
+		c-5.238,0-9.5,4.262-9.5,9.5c0,5.238,4.262,9.5,9.5,9.5c5.238,0,9.5-4.262,9.5-9.5C-316.5-29.238-320.762-33.5-326-33.5z"/>
+</g>
 </svg>

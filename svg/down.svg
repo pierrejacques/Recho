@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="26px" height="11px" viewBox="0 0 26 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>Path 2</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
-        <g id="home" transform="translate(-174.000000, -631.000000)" stroke="#FFFFFF">
-            <g id="btn-latest" transform="translate(160.000000, 612.000000)">
-                <polyline id="Path-2" transform="translate(27.082172, 24.548519) rotate(-270.000000) translate(-27.082172, -24.548519) " points="22.8972408 12.1027592 31.2671029 25.2569839 22.8972408 36.9942788"></polyline>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="26px" height="11px" viewBox="0 0 26 11" enable-background="new 0 0 26 11" xml:space="preserve">
+<title>Path 2</title>
+<desc>Created with Sketch.</desc>
+<g id="app">
+	<g id="home" transform="translate(-174.000000, -631.000000)">
+		<g id="btn-latest" transform="translate(160.000000, 612.000000)">
+			<path d="M26.374,29.233c-0.102,0-0.204-0.031-0.291-0.093l-11.737-8.37l0.581-0.814l11.463,8.174l12.869-8.189l0.537,0.844
+				l-13.154,8.37C26.56,29.207,26.467,29.233,26.374,29.233z"/>
+		</g>
+	</g>
+</g>
 </svg>
